@@ -1,0 +1,9 @@
+title: "Samo trči"
+description: "Priče sa staze, besplatni saveti i individualni coaching. Jer svako može da počne."
+url: "https://samotrci.github.io"
+baseurl: ""
+lang: sr-RS
+permalink: /blog/:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
