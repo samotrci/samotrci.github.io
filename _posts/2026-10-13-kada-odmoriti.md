@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kako prepoznati da ti treba dan odmora?"
+description: "Odmor nije preskakanje treninga!"
 date: 2026-10-13
 image: "/images/sajt samo trči.png"
 permalink: /blog/kada-odmoriti/
