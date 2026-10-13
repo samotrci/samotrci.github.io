@@ -2,6 +2,7 @@
 layout: post
 title: "Kako prepoznati da ti treba dan odmora?"
 date: 2026-10-13
+![Samo trči](/images/sajt%20samo%20tr%C4%8Di.png)
 permalink: /blog/kada-odmoriti/
 ---
 
