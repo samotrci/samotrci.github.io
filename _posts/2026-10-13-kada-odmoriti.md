@@ -54,3 +54,5 @@ Nekad je najbolje sesti, pojesti nešto lepo i prestati proveravati koliko su dr
 A nekada je dovoljno sesti sa svojim klincima i uzivati u njihovim radovima.. 
 
 **I samo trči — kada je vreme za trčanje.** 🧡
+
+![Samo trči](/images/sajt%20samo%20tr%C4%8Di.png)
