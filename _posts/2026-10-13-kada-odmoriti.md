@@ -5,7 +5,6 @@ date: 2026-10-13
 permalink: /blog/kada-odmoriti/
 ---
 
-# Kako prepoznati da ti treba dan odmora?
 
 Postoje dve vrste trkača.
 
