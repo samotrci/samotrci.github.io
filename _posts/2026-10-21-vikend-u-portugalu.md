@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Vikend u Portugalu iz mog ugla"
-description: "Jedno evropsko trail finale, 52 kilometra portugalskih planina, selo sa jednim stanovnikom i povratak kući koji je trajao 26 sati.!"
 date: 2026-10-21
-permalink: /blog/vikend-u-portugalu/
 ---
 
 
@@ -139,7 +137,7 @@ Znao sam da će na finalu biti ozbiljno spremnih trkača. Zapravo, prema statist
 
 Tako da, samim tim što nisam završio poslednji — ja sam pobedio!
 
-Magareća stvar! 😂
+Magareća stvar!
 
 Da li sam očekivao da će biti lako?
 
