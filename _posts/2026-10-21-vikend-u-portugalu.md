@@ -40,11 +40,21 @@ Ipak, koliko god mi se Lousã dopala, jedno drugo mesto potpuno me je osvojilo.
 
 Candal, selo sa jednim stanovnikom
 
+![Candal](/images/candal1.jpg)
+
+![Candal](/images/candal2.jpg)
+
 Candal je selo u kojem sam odseo.
+
+![Candal](/images/candal3.jpg)
+
+![Candal](/images/candal4.jpg)
 
 Ima 12 kuća u donjem i 16 u gornjem delu. Sve su kamene, delom uklesane u stenu, sa mnogo drveta i detalja koji se savršeno uklapaju u okolinu.
 
 Voda je za piće iz lokalnog izvora. U centru se nalaze javna roštiljnica i perionica veša. Struje ima, ali Wi-Fi-ja nema nigde!
+
+![Candal](/images/candal5.jpg)
 
 I znate šta? Baš mi je prijalo.
 
@@ -55,6 +65,8 @@ Broj stanovnika: jedan.
 Da, dobro ste pročitali. Jedan. Slovima — jedan.
 
 Mr Mario.
+
+![Candal](/images/candal6.jpg)
 
 Šezdesetsedmogodišnji Belgijanac, duge sede kose, sa metalnim kukom, koji je praktično sve u ovom selu. Gradi, popravlja, održava kuće, brine o gostima i čuva ključeve.
 
@@ -132,6 +144,8 @@ I mislim da ću ih poslušati.
 
 UTAX — najlošije rangirani učesnik evropskog finala
 
+![UTAX](/images/trka2.jpg)
+
 A sada malo o razlogu zbog kojeg sam zapravo došao u Portugal.
 
 ITRA National League European Final.
@@ -189,6 +203,13 @@ Iako se istovremeno održavalo više trka, praktično nisi mogao da zalutaš ni 
 Posebno me je impresioniralo što su već sutradan sve staze bile očišćene od markacija. Na ultra-distancama uklanjanje oznaka počinjalo je odmah nakon prolaska poslednjeg takmičara.
 
 Još jednom, svaka čast organizatorima!
+
+![UTAX](/images/trka3.jpg)
+
+![UTAX](/images/trka4.jpg)
+
+![UTAX](/images/trka5.jpg)
+
 
 Vredi li se vratiti?
 
