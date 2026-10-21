@@ -2,6 +2,7 @@
 layout: post
 title: "Vikend u Portugalu iz mog ugla"
 date: 2026-10-21
+image: "/images/candal7.jpg"
 ---
 
 
