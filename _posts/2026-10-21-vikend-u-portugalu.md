@@ -165,7 +165,7 @@ ITRA National League European Final.
 
 Znao sam da će na finalu biti ozbiljno spremnih trkača. Zapravo, prema statistici organizatora, bio sam najlošije rangiran učesnik.
 
-Tako da, samim tim što nisam završio poslednji — ja sam pobedio!
+Tako da, samim tim što nisam završio poslednji ja sam pobedio!
 
 Magareća stvar!
 
@@ -179,7 +179,7 @@ Da!
 
 Osam sati bila je neka moja želja.
 
-Na kraju — 9 sati i 42 minuta.
+Na kraju, 9 sati i 42 minuta.
 
 Najveći problem nije bila ni dužina staze, ni uspon, već klima sa kojom sam se prvi put susreo.
 
@@ -201,11 +201,11 @@ Organizacija od koje može mnogo da se nauči
 
 Organizacija trke bila je na zaista visokom nivou.
 
-Startno-ciljna zona je nešto što bi svaki organizator trail trke kod nas trebalo da vidi.
+Startno ciljna zona je nešto što bi svaki organizator trail trke kod nas trebalo da vidi.
 
 Okrepe su bile na pravim mestima, sa odgovarajućom hranom i pićem, i u dovoljnim količinama za sve.
 
-GPX trag i stvarna trasa poklapali su se gotovo savršeno.
+GPX track i stvarna trasa poklapali su se gotovo savršeno.
 
 Markacije besprekorne.
 
