@@ -1,10 +1,11 @@
-YAML
-
-___
+---
 layout: post
 title: "Vikend u Portugalu iz mog ugla"
+description: "Jedno evropsko trail finale, 52 kilometra portugalskih planina, selo sa jednim stanovnikom i povratak kući koji je trajao 26 sati.!"
 date: 2026-10-21
-___
+permalink: /blog/vikend-u-portugalu/
+---
+
 
 
 
