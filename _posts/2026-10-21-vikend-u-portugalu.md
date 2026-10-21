@@ -28,6 +28,10 @@ Gde god sam popio espresso, bio je vrhunski. A to je već ozbiljna preporuka!
 
 Lousã / tvrđava, prirodni bazen i market za običan svet
 
+![Lousã — tvrđava i okolina](/images/lousa1.jpg)
+
+![Lousã — tvrđava i okolina](/images/lousa2.jpg)
+
 U Lousã-i su me lokalci čak odveli do jeftinijeg marketa, pošto je onaj koji sam pronašao na mapi, kako su mi objasnili, „za turiste, skup i super fensi“.
 
 U mestu se nalazi i zaista lepa, očuvana tvrđava, kao i prirodni bazen. Deo reke leti preusmere i naprave kupalište. Genijalan izum, a izgleda fantastično!
@@ -162,7 +166,7 @@ Nisam srljao. Nisam jurio rezultat po svaku cenu. Kontrolisao sam tempo gotovo d
 
 I uspeo sam u najvažnijoj nameri — da se vratim bez ozbiljne povrede.
 
-Doduše, jedan pad i moj lakat možda se ne bi složili sa tim. 😂
+Doduše, jedan pad i moj lakat možda se ne bi složili sa tim.
 
 Još jednom sam se uverio koliko su ljudi koji su rođeni, odrasli ili žive na planinama u prednosti kada su u pitanju ovakve trke.
 
