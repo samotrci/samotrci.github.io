@@ -5,6 +5,17 @@ date: 2026-10-21
 image: "/images/candal7.jpg"
 ---
 
+<style>
+img {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  margin: 20px auto;
+}
+</style>
+
 
 
 
