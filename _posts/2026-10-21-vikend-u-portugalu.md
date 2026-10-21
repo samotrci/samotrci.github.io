@@ -7,7 +7,7 @@ date: 2026-10-21
 
 
 
-Jedno evropsko trail finale, 52 kilometra portugalskih planina, selo sa jednim stanovnikom i povratak kući koji je trajao 26 sati.
+Jedno evropsko trail finale, 52 kilometra portugalskih planina, selo sa jednim stanovnikom i povratak kući koji je trajao 26 sati
 
 Portugalci, kafa i poneki fudbalski nesporazum
 
