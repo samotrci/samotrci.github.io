@@ -1,4 +1,4 @@
-<img src="/images/odmor.png"
+<img src="/images/odmor1.png"
      alt="Umor koji ne piše na satu"
      style="max-width:100%; max-height:85vh; width:auto; height:auto; display:block; margin:0 auto;">
 
