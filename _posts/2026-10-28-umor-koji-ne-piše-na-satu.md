@@ -1,16 +1,10 @@
-layout: post
-title: "Umor koji ne piše na satu"
-description: "Kraj sezone. Ili kako sam naučio da malo stanem."
-date: 2026-10-28
-image: "/images/odmor1.png"
-permalink: /blog/kraj-sezone/
----
+![Umor koji ne piše na satu](/images/odmor1.png)
 
 Postoje dani kada jedva čekaš da izađeš na stazu. A postoje i oni dani kada ti se jednostavno ne radi ništa.
 
-Ne zato jer si igubio volju, ne zato jer ti je trčanje dosadilo, nego zato što te je, izgleda, sve pomalo stiglo.
+Ne zato jer si izgubio volju, ne zato jer ti je trčanje dosadilo, nego zato što te je, izgleda, sve pomalo stiglo.
 
-Posle jos jedne duge sezone, preko 2500 pretrčanih kilometara, mnogo uspona, trka, treninga, putovanja i svega što ide uz njih, konačno sam malo stao.
+Posle još jedne duge sezone, preko 2500 pretrčanih kilometara, mnogo uspona, trka, treninga, putovanja i svega što ide uz njih, konačno sam malo stao.
 Četiri dana nisam potrčao. Samo šetnja, klinci, kuća i ništa posebno "pametno" .
 
 I znate šta? 
