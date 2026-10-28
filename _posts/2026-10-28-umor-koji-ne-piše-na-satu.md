@@ -1,11 +1,9 @@
-<img src="/images/odmor1.png"
-     alt="Umor koji ne piše na satu"
-     style="max-width:100%; max-height:85vh; width:auto; height:auto; display:block; margin:0 auto;">
-
-
 ---
+layout: post
+title: "Umor koji ne piše na satu"
 image: /images/odmor1.png
-image_alt: Odmor nakon duge trail sezone
+image_alt: "Odmor nakon duge trail sezone"
+---
 
 
 Postoje dani kada jedva čekaš da izađeš na stazu. A postoje i oni dani kada ti se jednostavno ne radi ništa.
