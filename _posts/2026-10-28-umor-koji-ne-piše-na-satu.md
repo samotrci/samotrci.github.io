@@ -3,6 +3,11 @@
      style="max-width:100%; max-height:85vh; width:auto; height:auto; display:block; margin:0 auto;">
 
 
+---
+image: /images/odmor1.png
+image_alt: Odmor nakon duge trail sezone
+
+
 Postoje dani kada jedva čekaš da izađeš na stazu. A postoje i oni dani kada ti se jednostavno ne radi ništa.
 
 Ne zato jer si izgubio volju, ne zato jer ti je trčanje dosadilo, nego zato što te je, izgleda, sve pomalo stiglo.
