@@ -8,12 +8,12 @@ permalink: /nauka-na-stazi/vise-gelova-brza-trka/
 ---
 
 
-Stručna analiza Fuelled or Fooled?, objavljena 8. juna 2026. u časopisu Sports Medicine, preispituje popularnost veoma visokog unosa ugljenih hidrata tokom izdržljivosti. Ovo je stručni osvrt na postojeća istraživanja, a ne novi eksperiment. Pročitaj rad. Springer Nature Link
+Stručna analiza Fuelled or Fooled?, objavljena 8. juna 2026. u časopisu Sports Medicine, preispituje popularnost veoma visokog unosa ugljenih hidrata tokom izdržljivosti. Ovo je stručni osvrt na postojeća istraživanja, a ne novi eksperiment.
 
 Šta je novo i koliko je pouzdano?
 - Dobro potkrepljeno: veći unos može povećati korišćenje unetih ugljenih hidrata kao goriva. To samo po sebi ne dokazuje bolji rezultat.
 - Još nije pouzdano potvrđeno: da unos preko 90 g/h dosledno poboljšava performanse u odnosu na manje doze, posebno kod rekreativnih ultratrkača.
-- Obećavajuće, ali ograničeno: pojedini radovi na trail trkačima pokazuju bolje pokazatelje oporavka uz 120 g/h, ali bez dokazanog poboljšanja vremena trke. Kratki laboratorijski testovi slabo predstavljaju višesatnu toleranciju stomaka na ultrama. Springer Nature Link
+- Obećavajuće, ali ograničeno: pojedini radovi na trail trkačima pokazuju bolje pokazatelje oporavka uz 120 g/h, ali bez dokazanog poboljšanja vremena trke. Kratki laboratorijski testovi slabo predstavljaju višesatnu toleranciju stomaka na ultrama. 
 
 - ## Izvor
 
