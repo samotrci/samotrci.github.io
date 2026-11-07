@@ -18,7 +18,7 @@ Neću vam pričati koja je lepša, koja ima bolji marketing ili koju nosi neki p
 
 Zanima me nešto jednostavnije: kako se ponašaju kada noge počnu da otkazuju poslušnost, a do cilja ima još poprilično?
 
-1. Šta kaže tehnika?
+Šta kaže tehnika?
 
 Karakteristika
 
@@ -58,7 +58,7 @@ Na papiru, HOKA je lakša i ima agresivniji đon. ASICS naglasak stavlja na amor
 
 Ali papir ne trči ultra. Magare trči.
 
-2. Udobnost – ovde ASICS odnosi pobedu
+Udobnost – ovde ASICS odnosi pobedu
 
 Ovo je možda i najveće iznenađenje čitavog poređenja.
 
@@ -76,7 +76,7 @@ Kada posle 30 ili 40 kilometara ne razmišljaš o tome šta imaš na nogama, pro
 
 Pobednik: ASICS Trabuco Max 5.
 
-3. Grip – HOKA pokazuje zube
+Grip – HOKA pokazuje zube
 
 Ovde se situacija menja.
 
@@ -88,7 +88,7 @@ To ne znači da je ASICSGRIP loš. Naprotiv, vrlo je sposoban đon, ali kada ter
 
 Pobednik: HOKA Speedgoat 7.
 
-4. Stabilnost – nije sve u gripu
+Stabilnost – nije sve u gripu
 
 Ovde dolazimo do zanimljive razlike.
 
@@ -108,7 +108,7 @@ Tehnički spustovi: HOKA.
 
 Bočna stabilnost stopala: ASICS.
 
-5. Izdržljivost – moj najveći minus za HOKU
+Izdržljivost – moj najveći minus za HOKU
 
 HOKA Speedgoat 7 mi je zadala jedan ozbiljan razlog za nezadovoljstvo.
 
@@ -126,7 +126,7 @@ Od patike ne očekujem da traje večno, ali očekujem da gornjište izdrži viš
 
 ASICS u veličini EU 42 za sada mi pruža bolji osećaj prilagođenosti stopalu. Ipak, za konačan sud o njegovoj dugoročnoj izdržljivosti potrebno je još kilometara.
 
-6. Šta bih obuo za 100 kilometara?
+Šta bih obuo za 100 kilometara?
 
 Ovde nemam dilemu.
 
@@ -146,7 +146,7 @@ Naravno, ako bih birao patiku za kraću, izrazito tehničku trku sa mnogo mokrog
 
 Ali za dugu ultra avanturu, na terenu koji kombinuje šumske staze, makadam, uspone i spustove – moj izbor je ASICS.
 
-7. Konačni rezultat – ko je pobednik?
+Konačni rezultat – ko je pobednik?
 
 Kategorija
 
