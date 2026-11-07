@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asics Trabuco Max 5 vs Hoka Speedgoat 7"
-image: /images/
+image: /images/ascs.png
 ---
 
 Dve patike, jedan magarac i mnogo kilometara
