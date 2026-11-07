@@ -22,51 +22,35 @@ Zanima me nešto jednostavnije: kako se ponašaju kada noge počnu da otkazuju p
 
 Karakteristika
 
-ASICS Trabuco Max 5
-
-HOKA Speedgoat 7
+ASICS Trabuco Max 5     HOKA Speedgoat 7
 
 Težina
 
-oko 302 g
-
-oko 275 g
+oko 302 g               oko 275 g
 
 Drop
 
-5 mm
-
-5 mm
+5 mm                    5 mm
 
 Amortizacija
 
-FF BLAST PLUS
-
-Supercritical EVA
+FF BLAST PLUS           Supercritical EVA
 
 Spoljni đon
 
-ASICSGRIP
-
-Vibram Megagrip
+ASICSGRIP              Vibram Megagrip
 
 Visina krampona
 
-oko 3,5 mm
-
-5 mm
+oko 3,5 mm             5 mm
 
 Karakter
 
-Maksimalna amortizacija
-
-Grip i svestranost
+Maksimalna amortizacija  Grip i svestranost
 
 Moja veličina
 
-EU 42
-
-EU 42
+EU 42                   EU 42
 
 Napomena: težine su deklarisane za referentne veličine i nisu rezultat merenja istog broja patika.
 
