@@ -3,7 +3,7 @@ layout: post
 title: "Trčanje kao lek za nervozu. "
 category: "Priče sa staze"
 description: "Nisam nervozan, samo danas nisam trčao."
-image: "/images/IMG_9645.jpg"
+image: "/images/ner.jpg"
 ---
 
 
